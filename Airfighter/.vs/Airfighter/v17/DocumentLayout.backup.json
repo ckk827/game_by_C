@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c\u9879\u76EE\\Airfighter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9DD9D2-29E3-4CE5-A120-637E30BB8E22}|Airfighter.vcxproj|D:\\c\u9879\u76EE\\Airfighter\\draw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F9DD9D2-29E3-4CE5-A120-637E30BB8E22}|Airfighter.vcxproj|solutionrelative:draw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9DD9D2-29E3-4CE5-A120-637E30BB8E22}|Airfighter.vcxproj|D:\\c\u9879\u76EE\\Airfighter\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F9DD9D2-29E3-4CE5-A120-637E30BB8E22}|Airfighter.vcxproj|solutionrelative:game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9DD9D2-29E3-4CE5-A120-637E30BB8E22}|Airfighter.vcxproj|D:\\c\u9879\u76EE\\Airfighter\\menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F9DD9D2-29E3-4CE5-A120-637E30BB8E22}|Airfighter.vcxproj|solutionrelative:menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9DD9D2-29E3-4CE5-A120-637E30BB8E22}|Airfighter.vcxproj|D:\\c\u9879\u76EE\\Airfighter\\fight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F9DD9D2-29E3-4CE5-A120-637E30BB8E22}|Airfighter.vcxproj|solutionrelative:fight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9DD9D2-29E3-4CE5-A120-637E30BB8E22}|Airfighter.vcxproj|D:\\c\u9879\u76EE\\Airfighter\\draw.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F9DD9D2-29E3-4CE5-A120-637E30BB8E22}|Airfighter.vcxproj|solutionrelative:draw.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9DD9D2-29E3-4CE5-A120-637E30BB8E22}|Airfighter.vcxproj|D:\\c\u9879\u76EE\\Airfighter\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F9DD9D2-29E3-4CE5-A120-637E30BB8E22}|Airfighter.vcxproj|solutionrelative:menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9DD9D2-29E3-4CE5-A120-637E30BB8E22}|Airfighter.vcxproj|D:\\c\u9879\u76EE\\Airfighter\\fight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F9DD9D2-29E3-4CE5-A120-637E30BB8E22}|Airfighter.vcxproj|solutionrelative:fight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9DD9D2-29E3-4CE5-A120-637E30BB8E22}|Airfighter.vcxproj|D:\\c\u9879\u76EE\\Airfighter\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F9DD9D2-29E3-4CE5-A120-637E30BB8E22}|Airfighter.vcxproj|solutionrelative:game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "draw.cpp",
+              "DocumentMoniker": "D:\\c\u9879\u76EE\\Airfighter\\draw.cpp",
+              "RelativeDocumentMoniker": "draw.cpp",
+              "ToolTip": "D:\\c\u9879\u76EE\\Airfighter\\draw.cpp",
+              "RelativeToolTip": "draw.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-27T13:15:16.521Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "fight.h",
+              "DocumentMoniker": "D:\\c\u9879\u76EE\\Airfighter\\fight.h",
+              "RelativeDocumentMoniker": "fight.h",
+              "ToolTip": "D:\\c\u9879\u76EE\\Airfighter\\fight.h",
+              "RelativeToolTip": "fight.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-06T11:24:09.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fight.cpp",
+              "DocumentMoniker": "D:\\c\u9879\u76EE\\Airfighter\\fight.cpp",
+              "RelativeDocumentMoniker": "fight.cpp",
+              "ToolTip": "D:\\c\u9879\u76EE\\Airfighter\\fight.cpp",
+              "RelativeToolTip": "fight.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALMCAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-27T13:59:08.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "draw.h",
+              "DocumentMoniker": "D:\\c\u9879\u76EE\\Airfighter\\draw.h",
+              "RelativeDocumentMoniker": "draw.h",
+              "ToolTip": "D:\\c\u9879\u76EE\\Airfighter\\draw.h",
+              "RelativeToolTip": "draw.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-30T09:16:34.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "menu.h",
+              "DocumentMoniker": "D:\\c\u9879\u76EE\\Airfighter\\menu.h",
+              "RelativeDocumentMoniker": "menu.h",
+              "ToolTip": "D:\\c\u9879\u76EE\\Airfighter\\menu.h",
+              "RelativeToolTip": "menu.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-27T12:15:48.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "game.h",
+              "DocumentMoniker": "D:\\c\u9879\u76EE\\Airfighter\\game.h",
+              "RelativeDocumentMoniker": "game.h",
+              "ToolTip": "D:\\c\u9879\u76EE\\Airfighter\\game.h",
+              "RelativeToolTip": "game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-31T08:21:36.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "game.cpp",
+              "DocumentMoniker": "D:\\c\u9879\u76EE\\Airfighter\\game.cpp",
+              "RelativeDocumentMoniker": "game.cpp",
+              "ToolTip": "D:\\c\u9879\u76EE\\Airfighter\\game.cpp",
+              "RelativeToolTip": "game.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-27T13:06:36.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "menu.cpp",
+              "DocumentMoniker": "D:\\c\u9879\u76EE\\Airfighter\\menu.cpp",
+              "RelativeDocumentMoniker": "menu.cpp",
+              "ToolTip": "D:\\c\u9879\u76EE\\Airfighter\\menu.cpp",
+              "RelativeToolTip": "menu.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-27T12:15:34.013Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

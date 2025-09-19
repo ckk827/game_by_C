@@ -1,0 +1,8 @@
+﻿  fight.cpp
+  game.cpp
+  draw.cpp
+D:\c项目\Airfighter\draw.cpp(67,22): warning C4018: “>”: 有符号/无符号不匹配
+D:\c项目\Airfighter\draw.cpp(462,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  menu.cpp
+  正在生成代码...
+  Airfighter.vcxproj -> D:\c项目\Airfighter\x64\Debug\Airfighter.exe

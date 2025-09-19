@@ -1,0 +1,9 @@
+﻿  draw.cpp
+D:\c项目\Airfighter\draw.cpp(93,22): warning C4018: “>”: 有符号/无符号不匹配
+D:\c项目\Airfighter\draw.cpp(601,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  0 of 120 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Airfighter.vcxproj -> D:\c项目\Airfighter\x64\Release\planefight.exe
